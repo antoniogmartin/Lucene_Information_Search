@@ -4,8 +4,8 @@ For compile the project needs:
 - Add Tika library to project
 - Add Lucene library to project
 - Add jcalendar
-*
- **tested on Netbeans IDE**
+### tested on Netbeans IDE
+
 Search in a TripAdvisor comments collection. It analyzes comments and gets diverse information.
 Types of search availables for the collection:
 
